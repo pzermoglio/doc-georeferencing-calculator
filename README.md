@@ -1,2 +1,2 @@
-# docs-georeferencing-calculator
+# doc-georeferencing-calculator
 Manual for the Georeferencing  Calculator
